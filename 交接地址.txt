@@ -1,9 +1,9 @@
 gitlab地址及账号密码
-https://192.168.9.30/8080
+http://10.0.3.29:9093
 lwx@haoyuntech.com/Haoyun@123qwe
 
 商业核心数据库账号密码
-192.168.9.30:3306
+10.0.3.29:3306
 root/HAOYUN@Qc2141
 
 低代码测试地址
@@ -13,24 +13,22 @@ admin/123123123
 https://mail.haoyuntech.com
 test@haoyuntech.com/Haoyun@2020@lwx
 
-海康摄像头
-https://192.168.9.30/9082
+H3C
+https://192.168.9.189:9092
 admin/admin
 
 ssh账号密码
 root/Haoyun@123qwe
 
 Jenkins
-https://192.168.9.30/8084
+https://192.168.9.189:8080
 admin/admin123
 
 paas测试端
 https://hy.hydevops.com/?pagename=LowerCode.app_manage
 user1/admin
 
-Zabbix监控
-https://192.168.9.30/8069
-admin/Admin@123
+
 
 www.haoyuntech.com
 官网
