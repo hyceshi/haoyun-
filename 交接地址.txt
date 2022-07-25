@@ -2,6 +2,10 @@ gitlab地址及账号密码
 http://10.0.3.29:9093
 lwx@haoyuntech.com/Haoyun@123qwe
 
+wiki账号密码
+https://10.0.3.29/
+wei.li@haoyuntech.com/Liwei.haoyun
+
 商业核心数据库账号密码
 10.0.3.29:3306
 root/HAOYUN@Qc2141
