@@ -3,7 +3,7 @@ http://10.0.3.29:9093
 lwx@haoyuntech.com/Haoyun@123qwe
 
 oa账号密码
-http://sso.haoyuntech.com:6868/h
+http://sso.haoyuntech.com:6868
 wei.li/Liwei.haoyun@
 
 wiki账号密码
